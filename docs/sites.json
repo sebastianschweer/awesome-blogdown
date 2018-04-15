@@ -353,6 +353,10 @@
 		"name": "Regression to the Mean",
 		"url": "http://www.josepespasa.cat",
 		"desc": "Josep's blog on data analysis (and other things he learned the hard way)."
-	}
-	
+	},
+	{
+		"name": "Sastibe's Data Science Blog",
+		"url": "https://www.sastibe.de",
+		"desc": "A Data Science Blog by a theoritician/engineer/consultant/storyteller."
+	}	
 ]
